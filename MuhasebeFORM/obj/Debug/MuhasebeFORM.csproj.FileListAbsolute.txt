@@ -1,0 +1,17 @@
+C:\Users\OBEY\Desktop\Muhasebe\MuhasebeFORM\MuhasebeFORM\bin\Debug\MuhasebeFORM.exe.config
+C:\Users\OBEY\Desktop\Muhasebe\MuhasebeFORM\MuhasebeFORM\bin\Debug\MuhasebeFORM.exe
+C:\Users\OBEY\Desktop\Muhasebe\MuhasebeFORM\MuhasebeFORM\bin\Debug\MuhasebeFORM.pdb
+C:\Users\OBEY\Desktop\Muhasebe\MuhasebeFORM\MuhasebeFORM\bin\Debug\MetroFramework.dll
+C:\Users\OBEY\Desktop\Muhasebe\MuhasebeFORM\MuhasebeFORM\bin\Debug\MySql.Data.dll
+C:\Users\OBEY\Desktop\Muhasebe\MuhasebeFORM\MuhasebeFORM\bin\Debug\Google.Protobuf.dll
+C:\Users\OBEY\Desktop\Muhasebe\MuhasebeFORM\MuhasebeFORM\bin\Debug\MySql.Data.xml
+C:\Users\OBEY\Desktop\Muhasebe\MuhasebeFORM\MuhasebeFORM\obj\Debug\MuhasebeFORM.csprojAssemblyReference.cache
+C:\Users\OBEY\Desktop\Muhasebe\MuhasebeFORM\MuhasebeFORM\obj\Debug\MuhasebeFORM.Form1.resources
+C:\Users\OBEY\Desktop\Muhasebe\MuhasebeFORM\MuhasebeFORM\obj\Debug\MuhasebeFORM.Properties.Resources.resources
+C:\Users\OBEY\Desktop\Muhasebe\MuhasebeFORM\MuhasebeFORM\obj\Debug\MuhasebeFORM.csproj.GenerateResource.cache
+C:\Users\OBEY\Desktop\Muhasebe\MuhasebeFORM\MuhasebeFORM\obj\Debug\MuhasebeFORM.csproj.CoreCompileInputs.cache
+C:\Users\OBEY\Desktop\Muhasebe\MuhasebeFORM\MuhasebeFORM\obj\Debug\MuhasebeFORM.csproj.CopyComplete
+C:\Users\OBEY\Desktop\Muhasebe\MuhasebeFORM\MuhasebeFORM\obj\Debug\MuhasebeFORM.exe
+C:\Users\OBEY\Desktop\Muhasebe\MuhasebeFORM\MuhasebeFORM\obj\Debug\MuhasebeFORM.pdb
+C:\Users\OBEY\Desktop\Muhasebe\MuhasebeFORM\MuhasebeFORM\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\OBEY\Desktop\Muhasebe\MuhasebeFORM\MuhasebeFORM\obj\Debug\MuhasebeFORM.Index.resources
